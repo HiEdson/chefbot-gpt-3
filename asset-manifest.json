@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/%20//hiedson.github.io/chefbot-gpt-3.git/static/css/main.7a472112.css",
+    "main.js": "/%20//hiedson.github.io/chefbot-gpt-3.git/static/js/main.89701f03.js",
+    "static/js/787.9038160c.chunk.js": "/%20//hiedson.github.io/chefbot-gpt-3.git/static/js/787.9038160c.chunk.js",
+    "static/media/chef.png": "/%20//hiedson.github.io/chefbot-gpt-3.git/static/media/chef.33717155958013cdee63.png",
+    "static/media/logo.svg": "/%20//hiedson.github.io/chefbot-gpt-3.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/%20//hiedson.github.io/chefbot-gpt-3.git/index.html",
+    "main.7a472112.css.map": "/%20//hiedson.github.io/chefbot-gpt-3.git/static/css/main.7a472112.css.map",
+    "main.89701f03.js.map": "/%20//hiedson.github.io/chefbot-gpt-3.git/static/js/main.89701f03.js.map",
+    "787.9038160c.chunk.js.map": "/%20//hiedson.github.io/chefbot-gpt-3.git/static/js/787.9038160c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a472112.css",
+    "static/js/main.89701f03.js"
+  ]
+}
